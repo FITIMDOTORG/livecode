@@ -15,7 +15,7 @@ Follow these steps to start using FitimORG LiveCode:
    Clone the repository or download the `.zip` file.  
 
    ```bash
-   git clone https://github.com/your-username/fitimorg-livecode.git
+   git clone https://github.com/FITIMDOTORG/fitimorg-livecode.git
 Open the File:
 Navigate to the project folder and open index.html in your web browser.
 
@@ -39,9 +39,10 @@ Open your browser and navigate to your server's URL (e.g., http://localhost/fiti
 OR you can save the index.html to your Desktop and open with your fav. Browser. :)
 
 Features
-Real-time code preview for HTML, CSS, and JavaScript.
-Integrated CodeMirror editor with syntax highlighting and theming.
-Dynamic resizing of the preview window.
+- Real-time code preview for HTML, CSS, and JavaScript.
+- Integrated CodeMirror editor with syntax highlighting and theming.
+- Dynamic resizing of the preview window.
+
 Contributing
 Feel free to fork the repository and contribute. Pull requests are welcome!
 
