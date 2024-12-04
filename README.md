@@ -36,6 +36,7 @@ Place the downloaded files in your server's root directory (e.g., /var/www/html/
 
 Access the Project:
 Open your browser and navigate to your server's URL (e.g., http://localhost/fitimorg-livecode).
+OR you can save the index.html to your Desktop and open with your fav. Browser. :)
 
 Features
 Real-time code preview for HTML, CSS, and JavaScript.
