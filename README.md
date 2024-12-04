@@ -47,9 +47,9 @@ Contributing
 Feel free to fork the repository and contribute. Pull requests are welcome!
 
 License
-This project is licensed under the MIT License.
+You can use, modify it free.
 
 Support
-For issues or suggestions, please open a GitHub issue or contact the developer.
+For issues or suggestions, please open a GitHub issue or contact me.
 
 Enjoy coding with FitimORG LiveCode! 🚀
